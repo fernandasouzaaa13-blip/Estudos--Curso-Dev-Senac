@@ -1,0 +1,13 @@
+img{
+    width: 500px;
+    height: 500px;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+.linha{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
